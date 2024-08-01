@@ -6,8 +6,8 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ## 🌱 Currently Learning
 
-- **Advanced React**: Delving into complex React topics to build sophisticated applications.
-- **Symfony**: Exploring PHP framework for robust and scalable web applications.
+- **Advanced React** : Delving into complex React topics to build sophisticated applications.
+- **Symfony** : Exploring PHP framework for robust and scalable web applications.
 ---
 
 ## 🚀 Skills & Technologies
