@@ -54,9 +54,10 @@ I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong fo
 
 ---
 
-### GitHub Activity
+### GitHub Trophies
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Yasmine-daifane&theme=github)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yasmine-daifane&theme=darkhub)
+
 
 
 ---
