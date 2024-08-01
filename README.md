@@ -2,8 +2,15 @@
 
 I'm a passionate Full Stack Developer based in Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
 
+
 ---
 
+<p align="left">
+  <a href="https://github.com/YasmineDaifane">
+    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=0e75b6&style=flat-square" alt="YasmineDaifane" style="border-radius: 12px;"/>
+  </a>
+</p>
+--- 
 ## 🌱 Currently Learning
 
 - **Advanced React** : Delving into complex React topics to build sophisticated applications.
