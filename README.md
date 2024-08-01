@@ -95,4 +95,16 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ### 🌟 Projects & Contributions
 
-- **[Manifest AI E-commerce
+- **[Manifest AI E-commerce Site](#)**: Contributed to developing and optimizing an e-commerce platform.
+- **[Soli-LMS Web Applications](#)**: Validated and assessed technical projects for the Solicode center.
+
+---
+
+### 🎨 Interests
+
+- **Music**: Avid listener and occasional player.
+- **Design**: Enthusiastic about UI/UX and creative design.
+
+---
+
+Feel free to explore my projects and connect with me!
