@@ -43,6 +43,22 @@ I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong fo
 
 ---
 
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmine-daifane&layout=compact&theme=dark)
+
+---
+
+### Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasmine-daifane&theme=dark)
+
+---
+
+### Wakatime Stats
+![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
+
+---
+
 ### Contributions Overview
 
 - **Total Contributions:** 1,424 contributions in the last year
