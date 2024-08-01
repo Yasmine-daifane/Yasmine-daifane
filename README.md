@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 <p align="center">
   <a href="https://github.com/YasmineDaifane">
-    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=0e75b6&style=flat-square" alt="YasmineDaifane"
+    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=rose&style=flat-square" alt="YasmineDaifane"
          style="border-radius: 12px; border: 2px solid #007bff; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); width: 200px; height: auto;"/>
   </a>
 </p>
