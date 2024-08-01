@@ -2,7 +2,6 @@
 
 I'm a passionate Full Stack Developer based in Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
 
-
 ## 🌱 Currently Learning
 
 - **Advanced React**: Delving into complex React topics to build sophisticated applications.
@@ -18,17 +17,34 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 ## 🚀 Skills & Technologies
 
 ### Front-end:
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Bootstrap, React, Elementor Pro
+- **Languages:** 
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks & Libraries:** 
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![Elementor](https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white)
 
 ### Back-end:
-- **Languages & Frameworks:** PHP, Laravel
-- **Database Design:** MySQL, MongoDB
+- **Languages & Frameworks:** 
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+- **Database Design:** 
+  - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms:
-- **Version Control:** Git, GitHub
-- **Development Tools:** VMware, Packet Tracer, VirtualBox, Android Studio, VSC
-- **Design & Modeling:** Figma, UML, Merise, Mermaid, PlantUML
+- **Version Control:** 
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Development Tools:** 
+  - ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+  - ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Design & Modeling:** 
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  - ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)
 
 ## 🗣️ Languages
 
@@ -58,8 +74,6 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yasmine-daifane&theme=darkhub)
 
-
-
 ---
 
 ### Contributions Overview
@@ -68,7 +82,9 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 - **Recent Activity:** Active in code reviews, issue tracking, and pull requests.
 
 ![Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmine-daifane&layout=compact&theme=dark)
+
 ---
+
 ### 🌟 Projects & Contributions
 
 - **[Manifest AI E-commerce Site](#)**: Contributed to developing and optimizing an e-commerce platform.
