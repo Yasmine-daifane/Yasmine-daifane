@@ -45,7 +45,10 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Design & Modeling:
+- ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF7F50?style=for-the-badge&logo=design&logoColor=white)
 - ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)
+- ![Merise](https://img.shields.io/badge/MERISE-1E90FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==)
+- ![2TUP](https://img.shields.io/badge/2TUP-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABtCAYAAABH3ErHAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==)
 
 ---
 
@@ -92,16 +95,4 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ### 🌟 Projects & Contributions
 
-- **[Manifest AI E-commerce Site](#)**: Contributed to developing and optimizing an e-commerce platform.
-- **[Soli-LMS Web Applications](#)**: Validated and assessed technical projects for the Solicode center.
-
----
-
-### 🎨 Interests
-
-- **Music**: Avid listener and occasional player.
-- **Design**: Enthusiastic about UI/UX and creative design.
-
----
-
-Feel free to explore my projects and connect with me!
+- **[Manifest AI E-commerce
