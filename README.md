@@ -2,19 +2,27 @@
 
 I'm a passionate Full Stack Developer based in Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
 
-
 ---
 
 <p align="left">
   <a href="https://github.com/YasmineDaifane">
-    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=0e75b6&style=flat-square" alt="YasmineDaifane" style="border-radius: 12px;"/>
+    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=0e75b6&style=flat-square" alt="YasmineDaifane" style="border-radius: 12px; border: 1px solid #ccc; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
---- 
+
+---
+
 ## 🌱 Currently Learning
 
-- **Advanced React** : Delving into complex React topics to build sophisticated applications.
-- **Symfony** : Exploring PHP framework for robust and scalable web applications.
+<div style="display: flex; flex-direction: column; gap: 8px;">
+  <div style="background: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    **Advanced React**: Delving into complex React topics to build sophisticated applications.
+  </div>
+  <div style="background: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    **Symfony**: Exploring PHP framework for robust and scalable web applications.
+  </div>
+</div>
+
 ---
 
 ## 🚀 Skills & Technologies
