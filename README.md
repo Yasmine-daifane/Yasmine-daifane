@@ -3,13 +3,12 @@
 I'm a passionate Full Stack Developer based in Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
 
 ---
-<p align="center">
+<p align="left">
   <a href="https://github.com/YasmineDaifane">
-    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=0e75b6&style=flat-square" alt="YasmineDaifane"
-         style="border-radius: 12px; border: 2px solid #d0a5d8; box-shadow: 0px 4px 12px rgba(208, 165, 216, 0.3); width: 170px; height: auto;"/>
+    <img src="https://komarev.com/ghpvc/?username=YasmineDaifane&label=Profile%20Views&color=d0a5d8&style=flat-square" alt="YasmineDaifane"
+         style="border-radius: 12px; border: 2px solid #d0a5d8; box-shadow: 0px 4px 12px rgba(208, 165, 216, 0.3); width: 200px; height: auto;"/>
   </a>
 </p>
-
 
 ---
 ## 🌱 Currently Learning
