@@ -55,6 +55,7 @@ I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong fo
 ---
 
 ### Wakatime Stats
+
 ![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
 
 ---
