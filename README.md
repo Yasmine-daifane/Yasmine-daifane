@@ -43,6 +43,13 @@ I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong fo
 
 ---
 
+### Contributions Overview
+
+- **Total Contributions:** 1,424 contributions in the last year
+- **Recent Activity:** Active in code reviews, issue tracking, and pull requests.
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmine-daifane&layout=compact&theme=dark)
+---
 ### 🌟 Projects & Contributions
 
 - **[Manifest AI E-commerce Site](#)**: Contributed to developing and optimizing an e-commerce platform.
