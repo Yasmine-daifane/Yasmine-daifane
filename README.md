@@ -15,43 +15,44 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 ## 🚀 Skills & Technologies
 
 ### Front-end:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Elementor](https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=black)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C&color=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black)
+- ![Elementor](https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white&labelColor=000000&color=white)
 
 ### Back-end:
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white&labelColor=F05340&color=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F&color=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white)
 
 ### Tools & Platforms:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white)
+- ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&labelColor=607078&color=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84&color=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=white)
 
 ### Design & Modeling:
-- ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF7F50?style=for-the-badge&logo=design&logoColor=white)
-- ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)
-- ![Merise](https://img.shields.io/badge/MERISE-1E90FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==)
-- ![2TUP](https://img.shields.io/badge/2TUP-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABtCAYAAABH3ErHAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==)
+- ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF7F50?style=for-the-badge&logo=design&logoColor=white&labelColor=FF7F50&color=white)
+- ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white&labelColor=000000&color=white)
+- ![Merise](https://img.shields.io/badge/MERISE-1E90FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==&labelColor=1E90FF&color=white)
+- ![2TUP](https://img.shields.io/badge/2TUP-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABtCAYAAABH3ErHAAAAmklEQVR4nOzdeXUBdQwG4XchYP4fBicQyFEM0Tk3d6dOQJtbFvRAE8A4k+7PbIl9xuKDvbi8JY3IujKQ4yfR8bRdFGREJ9XXr53xkICVLiYBtmO9jMSQnJ+SHCR1e0P7bSswWz5FYf6b5shtTVihPHfpLgttTDZq76nMD3xhEr9OlzzJIH7mU4rF1GUbRgiayjHkNz4H8jPp8TsW2l4PwwZCp2OaEBTQKxC6BFv5YXl7k34fM8BhbVOmT4Ywn5+ZRjPKyEnKcM0yV4TpJDAkQcqFZnQkkJtAdZquFouqsw2ogV+fq9SGVyyUZZRrACfgjfWbN4yNImqvhMBcM8MDSZnYcd+MweoqT/gpVY2TT9FuT7aLpklSbmQKmB2q0lKptGzrTeZsYx1GzL9gAAAAABJRU5ErkJggg==&labelColor=00BFFF&color=white)
 
 ---
 
 ## 🗣️ Languages
 
-- ![Arabic](https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge)
-- ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-- ![French](https://img.shields.io/badge/French-Intermediate-red?style=for-the-badge)
-- ![Turkish](https://img.shields.io/badge/Turkish-Intermediate-yellow?style=for-the-badge)
+- ![Arabic](https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge&labelColor=orange&color=white)
+- ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&labelColor=blue&color=white)
+- ![French](https://img.shields.io/badge/French-Intermediate-red?style=for-the-badge&labelColor=red&color=white)
+- ![Turkish](https://img.shields.io/badge/Turkish-Intermediate-yellow?style=for-the-badge&labelColor=yellow&color=white)
 
 ---
+
 
 ## 📈 GitHub Stats
 
