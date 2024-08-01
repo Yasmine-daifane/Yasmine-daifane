@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yasmine 
 
-I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
+I'm a passionate Full Stack Developer based in Morocco. With a strong foundation in web development and e-commerce, I’m dedicated to crafting innovative solutions and improving user experiences.
 
 
 ## 🌱 Currently Learning
