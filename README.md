@@ -11,17 +11,6 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 </p>
 
 ---
-
-## 🌱 Currently Learning
-
-<div style="background: #f9f9f9; border-radius: 8px; padding: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  **Advanced React**: Delving into complex React topics to build sophisticated applications.
-</div>
-<div style="background: #f9f9f9; border-radius: 8px; padding: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); margin-top: 12px;">
-  **Symfony**: Exploring PHP framework for robust and scalable web applications.
-</div>
-
-
 ## 🌱 Currently Learning
 
 <div style="display: flex; flex-direction: column; gap: 12px;">
