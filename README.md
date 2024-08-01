@@ -7,9 +7,7 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 ## 🌱 Currently Learning
 
 - **Advanced React**: Delving into complex React topics to build sophisticated applications.
-- **GraphQL**: Exploring efficient data querying and management techniques.
-- **Data Visualization**: Enhancing skills with D3.js for impactful visual representations.
-
+- **Symfony**: Exploring PHP framework for robust and scalable web applications.
 ---
 
 ## 🚀 Skills & Technologies
