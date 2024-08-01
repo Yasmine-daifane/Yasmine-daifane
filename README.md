@@ -54,9 +54,10 @@ I'm a passionate Full Stack Developer based in Tanger, Morocco. With a strong fo
 
 ---
 
-### Wakatime Stats
+### GitHub Activity
 
-![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Yasmine-daifane&theme=github)
+
 
 ---
 
