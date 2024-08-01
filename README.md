@@ -12,14 +12,6 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ---
 
-## 📫 How to Reach Me
-
-- 📧 Email: [daifaney@gmail.com](mailto:yasmine.daifane.solicode@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/yasmine-daifane)
-- 💻 [GitHub](https://github.com/Yasmine-daifane)
-
----
-
 ## 🚀 Skills & Technologies
 
 ### Front-end:
@@ -107,4 +99,12 @@ I'm a passionate Full Stack Developer based in Morocco. With a strong foundation
 
 ---
 
-Feel free to explore my projects and connect with me!
+## 🚀 Let's Connect & Collaborate!
+
+Feel free to explore my projects and connect with me! I'm always open to new opportunities and collaborations. 
+
+- 🌟 [Check out my projects on GitHub](https://github.com/Yasmine-daifane)
+- 🤝 [Connect with me on LinkedIn](https://linkedin.com/in/yasmine-daifane)
+- 💬 [Drop me an email](mailto:yasmine.daifane.solicode@gmail.com)
+
+Looking forward to collaborating and creating amazing things together!
